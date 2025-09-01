@@ -17,3 +17,13 @@ tests/.coverage*
 build/
 tests/report/
 tests/screenshots/
+/test_results.txt
+/pytest_output.txt
+/.idea/.gitignore
+/.idea/django.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.venv/
